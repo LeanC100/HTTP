@@ -1,0 +1,23 @@
+{
+    "total": {
+        "value": 1,
+        "relation": "eq"
+    },
+    "max_score": 1.0,
+    "hits": [
+        {
+            "_index": "articles",
+            "_type": "_doc",
+            "_id": "9999",
+            "_score": 1.0,
+            "_source": {
+                "category": "Pol\u00edtica",
+                "title": "Pacto con Ir\u00e1n: el tribunal escuch\u00f3 otro nuevo pedido de nulidad de Cristina Kirchner y cambi\u00f3 el encuadre jur\u00eddico",
+                "description": "El TOF 8 cit\u00f3 a las querellas para el mi\u00e9rcoles pr\u00f3ximo, pero bajo un art\u00edculo del C\u00f3digo Procesal distinto al que realiz\u00f3 la pol\u00e9mica audiencia preliminar. Los querellantes se preguntan si no es una \"trama jur\u00eddica\". ",
+                "sourceUrl": "https://www.clarin.com/politica/pacto-iran-tribunal-escucho-nuevo-pedido-nulidad-cristina-kirchner-cambio-encuadre-juridico_0_MAXRyUeiC.html",
+                "imageUrl": "https://images.clarin.com/2021/03/04/XrvGjYl0A_600x338__1.jpg",
+                "publishedAt": "2021-08-25T19:41:13.000Z"
+            }
+        }
+    ]
+}
