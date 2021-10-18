@@ -1,23 +1,93 @@
 {
-    "total": {
-        "value": 1,
-        "relation": "eq"
+    "took": 0,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
     },
-    "max_score": 1.0,
-    "hits": [
-        {
-            "_index": "articles",
-            "_type": "_doc",
-            "_id": "9999",
-            "_score": 1.0,
-            "_source": {
-                "category": "Pol\u00edtica",
-                "title": "Pacto con Ir\u00e1n: el tribunal escuch\u00f3 otro nuevo pedido de nulidad de Cristina Kirchner y cambi\u00f3 el encuadre jur\u00eddico",
-                "description": "El TOF 8 cit\u00f3 a las querellas para el mi\u00e9rcoles pr\u00f3ximo, pero bajo un art\u00edculo del C\u00f3digo Procesal distinto al que realiz\u00f3 la pol\u00e9mica audiencia preliminar. Los querellantes se preguntan si no es una \"trama jur\u00eddica\". ",
-                "sourceUrl": "https://www.clarin.com/politica/pacto-iran-tribunal-escucho-nuevo-pedido-nulidad-cristina-kirchner-cambio-encuadre-juridico_0_MAXRyUeiC.html",
-                "imageUrl": "https://images.clarin.com/2021/03/04/XrvGjYl0A_600x338__1.jpg",
-                "publishedAt": "2021-08-25T19:41:13.000Z"
+    "hits": {
+        "total": {
+            "value": 2,
+            "relation": "eq"
+        },
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "articles",
+                "_type": "_doc",
+                "_id": "9999",
+                "_score": 1.0,
+                "_source": {
+                    "category": "Política",
+                    "title": "Pacto con Irán: el tribunal escuchó otro nuevo pedido de nulidad de Cristina Kirchner y cambió el encuadre jurídico",
+                    "description": "El TOF 8 citó a las querellas para el miércoles próximo, pero bajo un artículo del Código Procesal distinto al que realizó la polémica audiencia preliminar. Los querellantes se preguntan si no es una \"trama jurídica\". ",
+                    "sourceUrl": "https://www.clarin.com/politica/pacto-iran-tribunal-escucho-nuevo-pedido-nulidad-cristina-kirchner-cambio-encuadre-juridico_0_MAXRyUeiC.html",
+                    "imageUrl": "https://images.clarin.com/2021/03/04/XrvGjYl0A_600x338__1.jpg",
+                    "publishedAt": "2021-08-25T19:41:13.000Z"
+                }
+            },
+            {
+                "_index": "articles",
+                "_type": "_doc",
+                "_id": "8888",
+                "_score": 1.0,
+                "_source": {
+                    "category": "Política",
+                    "title": "Pacto con Irán: el tribunal escuchó otro nuevo pedido de nulidad de Cristina Kirchner y cambió el encuadre jurídico",
+                    "description": "El TOF 8 citó a las querellas para el miércoles próximo, pero bajo un artículo del Código Procesal distinto al que realizó la polémica audiencia preliminar. Los querellantes se preguntan si no es una \"trama jurídica\". ",
+                    "sourceUrl": "https://www.clarin.com/politica/pacto-iran-tribunal-escucho-nuevo-pedido-nulidad-cristina-kirchner-cambio-encuadre-juridico_0_MAXRyUeiC.html",
+                    "imageUrl": "https://images.clarin.com/2021/03/04/XrvGjYl0A_600x338__1.jpg",
+                    "publishedAt": "2021-08-25T19:41:13.000Z"
+                }
             }
-        }
-    ]
+        ]
+    }
+}{
+    "took": 0,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 2,
+            "relation": "eq"
+        },
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "articles",
+                "_type": "_doc",
+                "_id": "9999",
+                "_score": 1.0,
+                "_source": {
+                    "category": "Política",
+                    "title": "Pacto con Irán: el tribunal escuchó otro nuevo pedido de nulidad de Cristina Kirchner y cambió el encuadre jurídico",
+                    "description": "El TOF 8 citó a las querellas para el miércoles próximo, pero bajo un artículo del Código Procesal distinto al que realizó la polémica audiencia preliminar. Los querellantes se preguntan si no es una \"trama jurídica\". ",
+                    "sourceUrl": "https://www.clarin.com/politica/pacto-iran-tribunal-escucho-nuevo-pedido-nulidad-cristina-kirchner-cambio-encuadre-juridico_0_MAXRyUeiC.html",
+                    "imageUrl": "https://images.clarin.com/2021/03/04/XrvGjYl0A_600x338__1.jpg",
+                    "publishedAt": "2021-08-25T19:41:13.000Z"
+                }
+            },
+            {
+                "_index": "articles",
+                "_type": "_doc",
+                "_id": "8888",
+                "_score": 1.0,
+                "_source": {
+                    "category": "Política",
+                    "title": "Pacto con Irán: el tribunal escuchó otro nuevo pedido de nulidad de Cristina Kirchner y cambió el encuadre jurídico",
+                    "description": "El TOF 8 citó a las querellas para el miércoles próximo, pero bajo un artículo del Código Procesal distinto al que realizó la polémica audiencia preliminar. Los querellantes se preguntan si no es una \"trama jurídica\". ",
+                    "sourceUrl": "https://www.clarin.com/politica/pacto-iran-tribunal-escucho-nuevo-pedido-nulidad-cristina-kirchner-cambio-encuadre-juridico_0_MAXRyUeiC.html",
+                    "imageUrl": "https://images.clarin.com/2021/03/04/XrvGjYl0A_600x338__1.jpg",
+                    "publishedAt": "2021-08-25T19:41:13.000Z"
+                }
+            }
+        ]
+    }
 }

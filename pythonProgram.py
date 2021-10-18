@@ -37,9 +37,7 @@ def postData():
     }
 
     # se envian los datos al server flask
-    result = requests.post('http://192.168.0.6:5000/post', json= date)
-
- 
+    result = requests.post('http://192.168.0.25:5000/post', json= date)
     print(result.text)    
 
 
